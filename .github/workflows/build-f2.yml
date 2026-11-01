@@ -1,0 +1,48 @@
+name: Build F2 2025+ datasets
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/source_manifest.json"
+      - "scripts/**"
+      - "tests/**"
+      - ".github/workflows/build-f2.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: f2-dataset-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - name: Checkout F2
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate importer
+        run: |
+          python -m py_compile scripts/build_f2.py scripts/query_f2.py
+          python -m unittest discover -s tests -v
+      - name: Build F2-only A1/A2 and A3 challenge databases
+        run: python -u scripts/build_f2.py --year all
+      - name: Commit audited annual SQLite archives
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ready/f2_2025.sqlite.gz data/ready/f2_2026.sqlite.gz reports/ingestion/
+          if git diff --cached --quiet; then
+            echo "No changes to publish"
+          else
+            git commit -m "Build verified F2 A-class datasets from pinned sources"
+            git push
+          fi
