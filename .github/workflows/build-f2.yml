@@ -3,6 +3,7 @@ name: Build F2 2025+ datasets
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - "data/source_manifest.json"
       - "scripts/**"
