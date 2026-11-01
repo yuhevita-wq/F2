@@ -1,0 +1,184 @@
+{
+  "source_repository": "yuhevita-wq/keirin-market-analysis-",
+  "source_ref": "00605bd525f38f3b36f78c038450aaa20c343819",
+  "verified_on": "2026-11-01",
+  "description": "F2 only: A1/A2 and A3 challenge. Original source folders, never all_classes mirrors.",
+  "sources": [
+    {
+      "id": "A12-2025_01_02",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-01-01",
+      "end_date": "2025-02-28",
+      "path": "data/a_class_12/2025_01_02"
+    },
+    {
+      "id": "A12-2025_03_04",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-03-01",
+      "end_date": "2025-04-30",
+      "path": "data/a_class_12/2025_03_04"
+    },
+    {
+      "id": "A12-2025_05_06",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-05-01",
+      "end_date": "2025-06-30",
+      "path": "data/a_class_12/2025_05_06"
+    },
+    {
+      "id": "A12-2025_07_08",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-07-01",
+      "end_date": "2025-08-31",
+      "path": "data/a_class_12/2025_07_08"
+    },
+    {
+      "id": "A12-2025_09_10",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-09-01",
+      "end_date": "2025-10-31",
+      "path": "data/a_class_12/2025_09_10"
+    },
+    {
+      "id": "A12-2025_11_12",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2025-11-01",
+      "end_date": "2025-12-31",
+      "path": "data/a_class_12/2025_11_12"
+    },
+    {
+      "id": "A12-2026_01_02",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2026-01-01",
+      "end_date": "2026-02-28",
+      "path": "data/a_class_12/2026_01_02"
+    },
+    {
+      "id": "A12-2026_03_04",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-30",
+      "path": "data/a_class_12/2026_03_04"
+    },
+    {
+      "id": "A12-2026_05_06",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-30",
+      "path": "data/a_class_12/2026_05_06"
+    },
+    {
+      "id": "A12-2026_07_08",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2026-07-01",
+      "end_date": "2026-08-31",
+      "path": "data/a_class_12/2026_07_08"
+    },
+    {
+      "id": "A12-2026_09_1002",
+      "year": 2025,
+      "class": "A12",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-02",
+      "path": "data/a_class_12/2026_09_1002"
+    },
+    {
+      "id": "A3-2025_01_02",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-01-01",
+      "end_date": "2025-02-28",
+      "path": "data/a3_challenge/2025_01_02"
+    },
+    {
+      "id": "A3-2025_03_04",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-03-01",
+      "end_date": "2025-04-30",
+      "path": "data/a3_challenge/2025_03_04"
+    },
+    {
+      "id": "A3-2025_05_06",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-05-01",
+      "end_date": "2025-06-30",
+      "path": "data/a3_challenge/2025_05_06"
+    },
+    {
+      "id": "A3-2025_07_08",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-07-01",
+      "end_date": "2025-08-31",
+      "path": "data/a3_challenge/2025_07_08"
+    },
+    {
+      "id": "A3-2025_09_10",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-09-01",
+      "end_date": "2025-10-31",
+      "path": "data/a3_challenge/2025_09_10"
+    },
+    {
+      "id": "A3-2025_11_12",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2025-11-01",
+      "end_date": "2025-12-31",
+      "path": "data/a3_challenge/2025_11_12"
+    },
+    {
+      "id": "A3-2026_01_02",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2026-01-01",
+      "end_date": "2026-02-28",
+      "path": "data/a3_challenge/2026_01_02"
+    },
+    {
+      "id": "A3-2026_03_04",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2026-03-01",
+      "end_date": "2026-04-30",
+      "path": "data/a3_challenge/2026_03_04"
+    },
+    {
+      "id": "A3-2026_05_06",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2026-05-01",
+      "end_date": "2026-06-30",
+      "path": "data/a3_challenge/2026_05_06"
+    },
+    {
+      "id": "A3-2026_07_08",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2026-07-01",
+      "end_date": "2026-08-31",
+      "path": "data/a3_challenge/2026_07_08"
+    },
+    {
+      "id": "A3-2026_09_1007",
+      "year": 2025,
+      "class": "A3",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-07",
+      "path": "data/a3_challenge/2026_09_1007"
+    }
+  ]
+}
