@@ -1,0 +1,490 @@
+{
+  "year": 2025,
+  "source_repository": "yuhevita-wq/keirin-market-analysis-",
+  "source_ref": "00605bd525f38f3b36f78c038450aaa20c343819",
+  "source_files": [
+    {
+      "path": "data/a_class_12/2025_01_02/races.csv",
+      "bytes": 524278,
+      "sha256": "340e4bc1a50ef237014514bbcdcb9f14c9542e020d04785524d9b3ced92c8583"
+    },
+    {
+      "path": "data/a_class_12/2025_01_02/entries.csv",
+      "bytes": 8517710,
+      "sha256": "4f90abeab0d78d1fe15dfd43b41e87499fbb23ba01de2b1a7e10a647a1aeed26"
+    },
+    {
+      "path": "data/a_class_12/2025_01_02/results.csv",
+      "bytes": 5562203,
+      "sha256": "6932a1b0bc7df61e6f177a80062d8d2b779dfebbca814ea75c1e0c4543943ce0"
+    },
+    {
+      "path": "data/a_class_12/2025_01_02/payouts.csv",
+      "bytes": 5109518,
+      "sha256": "5e1519cda0ace80be0d00618e69da1e5e501e6d0fea2e24b6551310506591c76"
+    },
+    {
+      "path": "data/a_class_12/2025_03_04/races.csv",
+      "bytes": 507664,
+      "sha256": "34c42411973ff212ed84b132c0ae6d81b80cb4bcd5c1d42abb48921801be910d"
+    },
+    {
+      "path": "data/a_class_12/2025_03_04/entries.csv",
+      "bytes": 8335834,
+      "sha256": "bdb2f8bc9647f8799b55e97f6460f9d9fbec5a86503cc94d226c10ba7c32c4de"
+    },
+    {
+      "path": "data/a_class_12/2025_03_04/results.csv",
+      "bytes": 5423544,
+      "sha256": "f18ab0ca5280f6cc01f57deae1e91b0faace6a72fd4e2f4615f7974f5a6580f9"
+    },
+    {
+      "path": "data/a_class_12/2025_03_04/payouts.csv",
+      "bytes": 4959590,
+      "sha256": "203087b8548078df2e0311088ca3e223143194874e5b1336e157274a257fe725"
+    },
+    {
+      "path": "data/a_class_12/2025_05_06/races.csv",
+      "bytes": 520469,
+      "sha256": "b244813ccac85b20aff00e35235efea3c19018c57c207bea96b463787951d0bc"
+    },
+    {
+      "path": "data/a_class_12/2025_05_06/entries.csv",
+      "bytes": 8539482,
+      "sha256": "402a8c0149e17e3ca22cd8dcf543fbe8b5ea12fda0274df1553da63e7c459273"
+    },
+    {
+      "path": "data/a_class_12/2025_05_06/results.csv",
+      "bytes": 5552126,
+      "sha256": "bff48efc4c73e167d3bf52042de8d2066440033bbbf73928fa431ba8a5ad6e8c"
+    },
+    {
+      "path": "data/a_class_12/2025_05_06/payouts.csv",
+      "bytes": 5081955,
+      "sha256": "47b1fc5e8a4e1e26f68405e55badabf64c6cb23a119cf7910f6224331744f14e"
+    },
+    {
+      "path": "data/a_class_12/2025_07_08/races.csv",
+      "bytes": 527881,
+      "sha256": "e04110c7ae7a6ac27594aa76f6d66a756fd3a0a34ecdd260543f7c7fe6174fb9"
+    },
+    {
+      "path": "data/a_class_12/2025_07_08/entries.csv",
+      "bytes": 8648190,
+      "sha256": "13a0977fe2b0bade5a3557ea0291bbc412116c25eaf85cc01802262c1d375236"
+    },
+    {
+      "path": "data/a_class_12/2025_07_08/results.csv",
+      "bytes": 5628746,
+      "sha256": "b434fa2383173a241e676b20bf8e9c89586afe4bfda5c3daa508cca2941bfb1d"
+    },
+    {
+      "path": "data/a_class_12/2025_07_08/payouts.csv",
+      "bytes": 5163052,
+      "sha256": "dfd434810487215184ba2ceee6804b0a9b113757df56cf9b9eb1c5acb1c02dd0"
+    },
+    {
+      "path": "data/a_class_12/2025_09_10/races.csv",
+      "bytes": 518024,
+      "sha256": "04f3a91f0fcaef446181edff405d4582862c8764785c6d7dd6656d14b3fcf9d5"
+    },
+    {
+      "path": "data/a_class_12/2025_09_10/entries.csv",
+      "bytes": 8492619,
+      "sha256": "79e5211bc878239618784d5e7be77e5543141de98d4283b2a4f757cba5ea72d0"
+    },
+    {
+      "path": "data/a_class_12/2025_09_10/results.csv",
+      "bytes": 5529210,
+      "sha256": "e63ac42ead8b96e0f982c81067fdee3ca7cf04b94de24393b926c1f164e35f05"
+    },
+    {
+      "path": "data/a_class_12/2025_09_10/payouts.csv",
+      "bytes": 5063394,
+      "sha256": "8cb08c76f777433bd15d58bdd949f8b77de9c5203dc01236164bab5ba6eab362"
+    },
+    {
+      "path": "data/a_class_12/2025_11_12/races.csv",
+      "bytes": 520157,
+      "sha256": "57eb9e58c72c93bbd12403be93fe90db7c300e5cdd6fe302a96875b200d6ac95"
+    },
+    {
+      "path": "data/a_class_12/2025_11_12/entries.csv",
+      "bytes": 8526002,
+      "sha256": "f58c18ceaf834864f5eb19a33d5b81c144e38ac7d2af220752fd217fc04cea46"
+    },
+    {
+      "path": "data/a_class_12/2025_11_12/results.csv",
+      "bytes": 5558625,
+      "sha256": "ec8feacf5d9c0a6f753a3c6815f9a44e3e4eaa8ec5d9cc8334f3aeea3a353463"
+    },
+    {
+      "path": "data/a_class_12/2025_11_12/payouts.csv",
+      "bytes": 5073523,
+      "sha256": "608ca6471b4a6810ff92e5080af5ffdfdca2e85206afc5d6a67ea37c707701b4"
+    },
+    {
+      "path": "data/a3_challenge/2025_01_02/races.csv",
+      "bytes": 254654,
+      "sha256": "6d775ff5edee27f5fdae5fd9ff4fd609fc6dfd0967afbb4c4f1f92212628af81"
+    },
+    {
+      "path": "data/a3_challenge/2025_01_02/entries.csv",
+      "bytes": 3958069,
+      "sha256": "5bb3901e441759d715a0135951010127d5ff08eb053f9e3fc357ccec8ad78b57"
+    },
+    {
+      "path": "data/a3_challenge/2025_01_02/results.csv",
+      "bytes": 2567516,
+      "sha256": "c214292d554fe5efa3fb7ea8611436d4a989ead9ae435c038f5e91bff29c1d5d"
+    },
+    {
+      "path": "data/a3_challenge/2025_01_02/payouts.csv",
+      "bytes": 2424000,
+      "sha256": "23eb49d8db4aca0b5b951542c0f91dfa988b2b716413505dae9db8bd4e4aabae"
+    },
+    {
+      "path": "data/a3_challenge/2025_03_04/races.csv",
+      "bytes": 243770,
+      "sha256": "4690020b10a2a3201166f1b684b24010ca5323ffb90a19b2a7dedf17ffa1461a"
+    },
+    {
+      "path": "data/a3_challenge/2025_03_04/entries.csv",
+      "bytes": 3825985,
+      "sha256": "25653273f2e24bbd9660eab40d1b3b020d5e81f1577802f7a515bad93303235d"
+    },
+    {
+      "path": "data/a3_challenge/2025_03_04/results.csv",
+      "bytes": 2476155,
+      "sha256": "2091082ada385e1ae3d6ddbaadbf29eaa014d427f92f8441a1607c304f181ec6"
+    },
+    {
+      "path": "data/a3_challenge/2025_03_04/payouts.csv",
+      "bytes": 2324822,
+      "sha256": "5921659a21fa6f0715a75b6a10a980e6186b9c6dcd7241ad3ca2dd71511b9ed9"
+    },
+    {
+      "path": "data/a3_challenge/2025_05_06/races.csv",
+      "bytes": 245881,
+      "sha256": "f09a2f9acea07ac48fce6bdedb5aaa4133f2fc2976d4d3ceb0ae7c82b49f07fc"
+    },
+    {
+      "path": "data/a3_challenge/2025_05_06/entries.csv",
+      "bytes": 3824952,
+      "sha256": "b53cba306dd2cdcd79d4148435372c7e37911ea85e08097b8373106ee41f183d"
+    },
+    {
+      "path": "data/a3_challenge/2025_05_06/results.csv",
+      "bytes": 2454840,
+      "sha256": "0abf07ecbe67bcda68fce6283ab103380536e8d17141eeed140c67dce8a1a3fb"
+    },
+    {
+      "path": "data/a3_challenge/2025_05_06/payouts.csv",
+      "bytes": 2326254,
+      "sha256": "fa71e9a6152547338084467d01efc9ac9e1349c6297e240caed44c435bd4c036"
+    },
+    {
+      "path": "data/a3_challenge/2025_07_08/races.csv",
+      "bytes": 290750,
+      "sha256": "cdbfb5d9614935253534604e83e080dd4398b9c2e99e5345564523d040a37efc"
+    },
+    {
+      "path": "data/a3_challenge/2025_07_08/entries.csv",
+      "bytes": 4515996,
+      "sha256": "908512cf0e316c7e4bf6dbc0f17d05c5e6ccc3e82b0b189087ff2ac67a9e7577"
+    },
+    {
+      "path": "data/a3_challenge/2025_07_08/results.csv",
+      "bytes": 2910700,
+      "sha256": "9bbf0d100715fca79c199f5160421b7af2a01921b3cbd5e58191b8d8603ca2a4"
+    },
+    {
+      "path": "data/a3_challenge/2025_07_08/payouts.csv",
+      "bytes": 2771256,
+      "sha256": "e85213ec6cb489877e5bd55defec49ab119cdcdb4c2a3aa132768ad63d7b7ab3"
+    },
+    {
+      "path": "data/a3_challenge/2025_09_10/races.csv",
+      "bytes": 268735,
+      "sha256": "10f31f972a247c3f3e74973461c3d48b7ce9973d2ef41628a413a964bc10876f"
+    },
+    {
+      "path": "data/a3_challenge/2025_09_10/entries.csv",
+      "bytes": 4222227,
+      "sha256": "6d242b7f7ae6cdd490cf8c48eb5d7c1fb3a61c5cdd92d2d3beabee2492ac6b06"
+    },
+    {
+      "path": "data/a3_challenge/2025_09_10/results.csv",
+      "bytes": 2719020,
+      "sha256": "edbcde12e136215447a53ecda44e939fa30e5a3f7181b79ae9f134c02863130c"
+    },
+    {
+      "path": "data/a3_challenge/2025_09_10/payouts.csv",
+      "bytes": 2563802,
+      "sha256": "eb48477beb749f58291eaf8cd37a4b4fd2a171a3c9955c41a2fbf424cef6ca1d"
+    },
+    {
+      "path": "data/a3_challenge/2025_11_12/races.csv",
+      "bytes": 247177,
+      "sha256": "73db3b0e78ba53b5d3d149e13f83d0282f3ca6d3d2e270698ad200b34b1cff56"
+    },
+    {
+      "path": "data/a3_challenge/2025_11_12/entries.csv",
+      "bytes": 3878918,
+      "sha256": "58ae6821d6f462c1178335e198799e933a0c145d03d3c27327dad6590104c772"
+    },
+    {
+      "path": "data/a3_challenge/2025_11_12/results.csv",
+      "bytes": 2507223,
+      "sha256": "75a3514556866d6f6a43330345f0116e323670b8d7b547cff12c6998019605ff"
+    },
+    {
+      "path": "data/a3_challenge/2025_11_12/payouts.csv",
+      "bytes": 2353292,
+      "sha256": "7b524241bf0a606c18fcfe597d158813c31f32b36e342727ff89f2acba04e8b2"
+    }
+  ],
+  "periods": {
+    "A12-2025_01_02": {
+      "races": {
+        "selected_rows": 1264,
+        "excluded_rows": 691
+      },
+      "entries": {
+        "selected_rows": 8765,
+        "excluded_rows": 4764
+      },
+      "results": {
+        "selected_rows": 8765,
+        "excluded_rows": 4764
+      },
+      "payouts": {
+        "selected_rows": 11397,
+        "excluded_rows": 6239
+      }
+    },
+    "A12-2025_03_04": {
+      "races": {
+        "selected_rows": 1262,
+        "excluded_rows": 635
+      },
+      "entries": {
+        "selected_rows": 8824,
+        "excluded_rows": 4429
+      },
+      "results": {
+        "selected_rows": 8824,
+        "excluded_rows": 4429
+      },
+      "payouts": {
+        "selected_rows": 11391,
+        "excluded_rows": 5737
+      }
+    },
+    "A12-2025_05_06": {
+      "races": {
+        "selected_rows": 1285,
+        "excluded_rows": 666
+      },
+      "entries": {
+        "selected_rows": 8960,
+        "excluded_rows": 4636
+      },
+      "results": {
+        "selected_rows": 8960,
+        "excluded_rows": 4636
+      },
+      "payouts": {
+        "selected_rows": 11577,
+        "excluded_rows": 5998
+      }
+    },
+    "A12-2025_07_08": {
+      "races": {
+        "selected_rows": 1289,
+        "excluded_rows": 685
+      },
+      "entries": {
+        "selected_rows": 8970,
+        "excluded_rows": 4781
+      },
+      "results": {
+        "selected_rows": 8970,
+        "excluded_rows": 4781
+      },
+      "payouts": {
+        "selected_rows": 11624,
+        "excluded_rows": 6180
+      }
+    },
+    "A12-2025_09_10": {
+      "races": {
+        "selected_rows": 1244,
+        "excluded_rows": 690
+      },
+      "entries": {
+        "selected_rows": 8684,
+        "excluded_rows": 4814
+      },
+      "results": {
+        "selected_rows": 8684,
+        "excluded_rows": 4814
+      },
+      "payouts": {
+        "selected_rows": 11210,
+        "excluded_rows": 6250
+      }
+    },
+    "A12-2025_11_12": {
+      "races": {
+        "selected_rows": 1248,
+        "excluded_rows": 696
+      },
+      "entries": {
+        "selected_rows": 8709,
+        "excluded_rows": 4846
+      },
+      "results": {
+        "selected_rows": 8709,
+        "excluded_rows": 4846
+      },
+      "payouts": {
+        "selected_rows": 11246,
+        "excluded_rows": 6268
+      }
+    },
+    "A3-2025_01_02": {
+      "races": {
+        "selected_rows": 905,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 6162,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 6162,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 8159,
+        "excluded_rows": 0
+      }
+    },
+    "A3-2025_03_04": {
+      "races": {
+        "selected_rows": 867,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 5959,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 5959,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 7824,
+        "excluded_rows": 0
+      }
+    },
+    "A3-2025_05_06": {
+      "races": {
+        "selected_rows": 869,
+        "excluded_rows": 1
+      },
+      "entries": {
+        "selected_rows": 5933,
+        "excluded_rows": 9
+      },
+      "results": {
+        "selected_rows": 5933,
+        "excluded_rows": 9
+      },
+      "payouts": {
+        "selected_rows": 7831,
+        "excluded_rows": 9
+      }
+    },
+    "A3-2025_07_08": {
+      "races": {
+        "selected_rows": 1032,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 7030,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 7030,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 9310,
+        "excluded_rows": 0
+      }
+    },
+    "A3-2025_09_10": {
+      "races": {
+        "selected_rows": 954,
+        "excluded_rows": 0
+      },
+      "entries": {
+        "selected_rows": 6571,
+        "excluded_rows": 0
+      },
+      "results": {
+        "selected_rows": 6571,
+        "excluded_rows": 0
+      },
+      "payouts": {
+        "selected_rows": 8616,
+        "excluded_rows": 0
+      }
+    },
+    "A3-2025_11_12": {
+      "races": {
+        "selected_rows": 876,
+        "excluded_rows": 1
+      },
+      "entries": {
+        "selected_rows": 6026,
+        "excluded_rows": 9
+      },
+      "results": {
+        "selected_rows": 6026,
+        "excluded_rows": 9
+      },
+      "payouts": {
+        "selected_rows": 7901,
+        "excluded_rows": 9
+      }
+    }
+  },
+  "filter": "meeting_grade == F2; A12=A級+class_scope A1/A2; A3=チャレンジ+class_scope A3 challenge",
+  "coverage_warning": "Source periods are not proof of nationwide completeness.",
+  "post_race_warning": "Results/payouts are known only after the race.",
+  "integrity": {
+    "row_counts": {
+      "races": 13095,
+      "entries": 90593,
+      "results": 90593,
+      "payouts": 118086
+    },
+    "by_class": {
+      "A12": 7592,
+      "A3": 5503
+    },
+    "races_missing": {
+      "entries": 0,
+      "results": 0,
+      "payouts": 0
+    }
+  },
+  "database": {
+    "path": "data/ready/f2_2025.sqlite.gz",
+    "gz_bytes": 19712129,
+    "sqlite_bytes": 166891520
+  }
+}
